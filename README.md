@@ -1,1 +1,1 @@
-# ejerciciosLogicosjs
+# ejercicios Logicos js
