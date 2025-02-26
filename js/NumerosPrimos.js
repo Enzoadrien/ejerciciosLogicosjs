@@ -8,6 +8,6 @@ function  numerosPrimos(){
         }
     }
 }
-    
+
 
 numerosPrimos();
